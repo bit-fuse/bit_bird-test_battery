@@ -1,0 +1,415 @@
+17:47:09.079 > ESP-ROM:esp32s3-20210327
+17:47:09.086 > Build:Mar 27 2021
+17:47:09.087 > rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+17:47:09.093 > SPIWP:0xee
+17:47:09.093 > mode:DIO, clock div:1
+17:47:09.093 > load:0x3fce3808,len:0x4bc
+17:47:09.098 > load:0x403c9700,len:0xbd8
+17:47:09.098 > load:0x403cc700,len:0x2a0c
+17:47:09.098 > entry 0x403c98d0
+17:47:09.184 > 
+17:47:09.184 > I2C Scanner starting...
+17:47:09.184 > Scanning...
+17:47:09.191 > I2C device found at address 0x4A !
+17:47:09.201 > Scan complete
+17:47:09.201 > 
+17:47:11.200 > Scanning...
+17:47:11.212 > I2C device found at address 0x4A !
+17:47:11.217 > Scan complete
+17:47:11.217 > 
+17:47:13.212 > Scanning...
+17:47:13.229 > I2C device found at address 0x4A !
+17:47:13.235 > Scan complete
+17:47:13.235 > 
+17:47:15.234 > Scanning...
+17:47:15.246 > I2C device found at address 0x4A !
+17:47:15.251 > Scan complete
+17:47:15.251 > 
+17:47:17.246 > Scanning...
+17:47:17.263 > I2C device found at address 0x4A !
+17:47:17.268 > Scan complete
+17:47:17.268 > 
+17:47:19.261 > Scanning...
+17:47:19.280 > I2C device found at address 0x4A !
+17:47:19.284 > Scan complete
+17:47:19.285 > 
+17:47:21.284 > Scanning...
+17:47:21.296 > I2C device found at address 0x4A !
+17:47:21.302 > Scan complete
+17:47:21.302 > 
+17:47:23.294 > Scanning...
+17:47:23.314 > I2C device found at address 0x4A !
+17:47:23.317 > Scan complete
+17:47:23.317 > 
+17:47:25.310 > Scanning...
+17:47:25.331 > I2C device found at address 0x4A !
+17:47:25.336 > Scan complete
+17:47:25.336 > 
+17:47:27.336 > Scanning...
+17:47:27.348 > I2C device found at address 0x4A !
+17:47:27.351 > Scan complete
+17:47:27.351 > 
+17:47:29.342 > Scanning...
+17:47:29.358 > I2C device found at address 0x4A !
+17:47:29.370 > Scan complete
+17:47:29.370 > 
+17:47:31.358 > Scanning...
+17:47:31.381 > I2C device found at address 0x4A !
+17:47:31.386 > Scan complete
+17:47:31.387 > 
+17:47:33.387 > Scanning...
+17:47:33.399 > I2C device found at address 0x4A !
+17:47:33.404 > Scan complete
+17:47:33.404 > 
+17:47:35.399 > Scanning...
+17:47:35.416 > I2C device found at address 0x4A !
+17:47:35.420 > Scan complete
+17:47:35.420 > 
+17:47:37.407 > Scanning...
+17:47:37.428 > I2C device found at address 0x4A !
+17:47:37.437 > Scan complete
+17:47:37.437 > 
+17:47:39.434 > Scanning...
+17:47:39.449 > I2C device found at address 0x4A !
+17:47:39.454 > Scan complete
+17:47:39.454 > 
+17:47:41.454 > Scanning...
+17:47:41.466 > I2C device found at address 0x4A !
+17:47:41.468 > Scan complete
+17:47:41.468 > 
+17:47:43.468 > Scanning...
+17:47:43.483 > I2C device found at address 0x4A !
+17:47:43.488 > Scan complete
+17:47:43.488 > 
+17:47:45.488 > Scanning...
+17:47:45.500 > I2C device found at address 0x4A !
+17:47:45.503 > Scan complete
+17:47:45.503 > 
+17:47:47.505 > Scanning...
+17:47:47.517 > I2C device found at address 0x4A !
+17:47:47.522 > Scan complete
+17:47:47.522 > 
+17:47:49.517 > Scanning...
+17:47:49.534 > I2C device found at address 0x4A !
+17:47:49.539 > Scan complete
+17:47:49.539 > 
+17:47:51.537 > Scanning...
+17:47:51.551 > I2C device found at address 0x4A !
+17:47:51.556 > Scan complete
+17:47:51.556 > 
+17:47:53.544 > Scanning...
+17:47:53.560 > I2C device found at address 0x4A !
+17:47:53.574 > Scan complete
+17:47:53.574 > 
+17:47:55.560 > Scanning...
+17:47:55.585 > I2C device found at address 0x4A !
+17:47:55.590 > Scan complete
+17:47:55.590 > 
+17:47:57.590 > Scanning...
+17:47:57.593 > I2C device found at address 0x4A !
+17:47:57.607 > Scan complete
+17:47:57.607 > 
+17:47:59.607 > Scanning...
+17:47:59.607 > I2C device found at address 0x4A !
+17:47:59.625 > Scan complete
+17:47:59.625 > 
+17:48:01.623 > Scanning...
+17:48:01.636 > I2C device found at address 0x4A !
+17:48:01.641 > Scan complete
+17:48:01.642 > 
+17:48:03.642 > Scanning...
+17:48:03.653 > I2C device found at address 0x4A !
+17:48:03.658 > Scan complete
+17:48:03.659 > 
+17:48:05.657 > Scanning...
+17:48:05.671 > I2C device found at address 0x4A !
+17:48:05.675 > Scan complete
+17:48:05.676 > 
+17:48:07.669 > Scanning...
+17:48:07.687 > I2C device found at address 0x4A !
+17:48:07.693 > Scan complete
+17:48:07.693 > 
+17:48:09.692 > Scanning...
+17:48:09.704 > I2C device found at address 0x4A !
+17:48:09.710 > Scan complete
+17:48:09.711 > 
+17:48:11.703 > Scanning...
+17:48:11.722 > I2C device found at address 0x4A !
+17:48:11.726 > Scan complete
+17:48:11.727 > 
+17:48:13.717 > Scanning...
+17:48:13.739 > I2C device found at address 0x4A !
+17:48:13.739 > Scan complete
+17:48:13.745 > 
+17:48:15.744 > Scanning...
+17:48:15.755 > I2C device found at address 0x4A !
+17:48:15.760 > Scan complete
+17:48:15.761 > 
+17:48:17.762 > Scanning...
+17:48:17.762 > I2C device found at address 0x4A !
+17:48:17.778 > Scan complete
+17:48:17.778 > 
+17:48:19.777 > Scanning...
+17:48:19.789 > I2C device found at address 0x4A !
+17:48:19.795 > Scan complete
+17:48:19.795 > 
+17:48:21.795 > Scanning...
+17:48:21.806 > I2C device found at address 0x4A !
+17:48:21.812 > Scan complete
+17:48:21.812 > 
+17:48:23.808 > Scanning...
+17:48:23.824 > I2C device found at address 0x4A !
+17:48:23.829 > Scan complete
+17:48:23.829 > 
+17:48:25.830 > Scanning...
+17:48:25.841 > I2C device found at address 0x4A !
+17:48:25.846 > Scan complete
+17:48:25.847 > 
+17:48:27.841 > Scanning...
+17:48:27.858 > I2C device found at address 0x4A !
+17:48:27.863 > Scan complete
+17:48:27.864 > 
+17:48:29.855 > Scanning...
+17:48:29.875 > I2C device found at address 0x4A !
+17:48:29.880 > Scan complete
+17:48:29.880 > 
+17:48:31.873 > Scanning...
+17:48:31.892 > I2C device found at address 0x4A !
+17:48:31.897 > Scan complete
+17:48:31.898 > 
+17:48:33.898 > Scanning...
+17:48:33.904 > I2C device found at address 0x4A !
+17:48:33.914 > Scan complete
+17:48:33.914 > 
+17:48:35.915 > Scanning...
+17:48:35.926 > I2C device found at address 0x4A !
+17:48:35.931 > Scan complete
+17:48:35.931 > 
+17:48:37.932 > Scanning...
+17:48:37.943 > I2C device found at address 0x4A !
+17:48:37.948 > Scan complete
+17:48:37.949 > 
+17:48:39.948 > Scanning...
+17:48:39.959 > I2C device found at address 0x4A !
+17:48:39.966 > Scan complete
+17:48:39.966 > 
+17:48:41.961 > Scanning...
+17:48:41.977 > I2C device found at address 0x4A !
+17:48:41.982 > Scan complete
+17:48:41.983 > 
+17:48:43.983 > Scanning...
+17:48:43.994 > I2C device found at address 0x4A !
+17:48:43.999 > Scan complete
+17:48:43.999 > 
+17:48:46.000 > Scanning...
+17:48:46.012 > I2C device found at address 0x4A !
+17:48:46.016 > Scan complete
+17:48:46.017 > 
+17:48:48.009 > Scanning...
+17:48:48.028 > I2C device found at address 0x4A !
+17:48:48.032 > Scan complete
+17:48:48.032 > 
+17:48:50.033 > Scanning...
+17:48:50.045 > I2C device found at address 0x4A !
+17:48:50.050 > Scan complete
+17:48:50.051 > 
+17:48:52.051 > Scanning...
+17:48:52.063 > I2C device found at address 0x4A !
+17:48:52.066 > Scan complete
+17:48:52.066 > 
+17:48:54.057 > Scanning...
+17:48:54.080 > I2C device found at address 0x4A !
+17:48:54.084 > Scan complete
+17:48:54.085 > 
+17:48:56.085 > Scanning...
+17:48:56.091 > I2C device found at address 0x4A !
+17:48:56.102 > Scan complete
+17:48:56.102 > 
+17:48:58.103 > Scanning...
+17:48:58.114 > I2C device found at address 0x4A !
+17:48:58.118 > Scan complete
+17:48:58.119 > 
+17:49:00.119 > Scanning...
+17:49:00.131 > I2C device found at address 0x4A !
+17:49:00.136 > Scan complete
+17:49:00.136 > 
+17:49:02.136 > Scanning...
+17:49:02.147 > I2C device found at address 0x4A !
+17:49:02.153 > Scan complete
+17:49:02.153 > 
+17:49:04.153 > Scanning...
+17:49:04.165 > I2C device found at address 0x4A !
+17:49:04.170 > Scan complete
+17:49:04.170 > 
+17:49:06.170 > Scanning...
+17:49:06.183 > I2C device found at address 0x4A !
+17:49:06.187 > Scan complete
+17:49:06.187 > 
+17:49:08.187 > Scanning...
+17:49:08.199 > I2C device found at address 0x4A !
+17:49:08.204 > Scan complete
+17:49:08.204 > 
+17:49:10.194 > Scanning...
+17:49:10.216 > I2C device found at address 0x4A !
+17:49:10.218 > Scan complete
+17:49:10.218 > 
+17:49:12.221 > Scanning...
+17:49:12.234 > I2C device found at address 0x4A !
+17:49:12.238 > Scan complete
+17:49:12.238 > 
+17:49:14.238 > Scanning...
+17:49:14.250 > I2C device found at address 0x4A !
+17:49:14.255 > Scan complete
+17:49:14.255 > 
+17:49:16.243 > Scanning...
+17:49:16.259 > I2C device found at address 0x4A !
+17:49:16.272 > Scan complete
+17:49:16.272 > 
+17:49:18.264 > Scanning...
+17:49:18.285 > I2C device found at address 0x4A !
+17:49:18.289 > Scan complete
+17:49:18.289 > 
+17:49:20.290 > Scanning...
+17:49:20.301 > I2C device found at address 0x4A !
+17:49:20.306 > Scan complete
+17:49:20.306 > 
+17:49:22.292 > Scanning...
+17:49:22.307 > I2C device found at address 0x4A !
+17:49:22.324 > Scan complete
+17:49:22.324 > 
+17:49:24.323 > Scanning...
+17:49:24.335 > I2C device found at address 0x4A !
+17:49:24.340 > Scan complete
+17:49:24.341 > 
+17:49:26.340 > Scanning...
+17:49:26.353 > I2C device found at address 0x4A !
+17:49:26.357 > Scan complete
+17:49:26.357 > 
+17:49:28.357 > Scanning...
+17:49:28.369 > I2C device found at address 0x4A !
+17:49:28.374 > Scan complete
+17:49:28.375 > 
+17:49:30.361 > Scanning...
+17:49:30.386 > I2C device found at address 0x4A !
+17:49:30.392 > Scan complete
+17:49:30.392 > 
+17:49:32.391 > Scanning...
+17:49:32.403 > I2C device found at address 0x4A !
+17:49:32.407 > Scan complete
+17:49:32.409 > 
+17:49:34.396 > Scanning...
+17:49:34.421 > I2C device found at address 0x4A !
+17:49:34.426 > Scan complete
+17:49:34.426 > 
+17:49:36.426 > Scanning...
+17:49:36.438 > I2C device found at address 0x4A !
+17:49:36.443 > Scan complete
+17:49:36.443 > 
+17:49:38.443 > Scanning...
+17:49:38.454 > I2C device found at address 0x4A !
+17:49:38.460 > Scan complete
+17:49:38.460 > 
+17:49:40.444 > Scanning...
+17:49:40.471 > I2C device found at address 0x4A !
+17:49:40.474 > Scan complete
+17:49:40.474 > 
+17:49:42.472 > Scanning...
+17:49:42.488 > I2C device found at address 0x4A !
+17:49:42.493 > Scan complete
+17:49:42.493 > 
+17:49:44.492 > Scanning...
+17:49:44.494 > I2C device found at address 0x4A !
+17:49:44.509 > Scan complete
+17:49:44.510 > 
+17:49:46.499 > Scanning...
+17:49:46.522 > I2C device found at address 0x4A !
+17:49:46.526 > Scan complete
+17:49:46.527 > 
+17:49:48.521 > Scanning...
+17:49:48.538 > I2C device found at address 0x4A !
+17:49:48.544 > Scan complete
+17:49:48.544 > 
+17:49:50.544 > Scanning...
+17:49:50.556 > I2C device found at address 0x4A !
+17:49:50.561 > Scan complete
+17:49:50.561 > 
+17:49:52.557 > Scanning...
+17:49:52.573 > I2C device found at address 0x4A !
+17:49:52.578 > Scan complete
+17:49:52.578 > 
+17:49:54.572 > Scanning...
+17:49:54.590 > I2C device found at address 0x4A !
+17:49:54.594 > Scan complete
+17:49:54.595 > 
+17:49:56.596 > Scanning...
+17:49:56.607 > I2C device found at address 0x4A !
+17:49:56.611 > Scan complete
+17:49:56.611 > 
+17:49:58.613 > Scanning...
+17:49:58.624 > I2C device found at address 0x4A !
+17:49:58.629 > Scan complete
+17:49:58.630 > 
+17:50:00.629 > Scanning...
+17:50:00.641 > I2C device found at address 0x4A !
+17:50:00.646 > Scan complete
+17:50:00.646 > 
+17:50:02.645 > Scanning...
+17:50:02.645 > I2C device found at address 0x4A !
+17:50:02.663 > Scan complete
+17:50:02.663 > 
+17:50:04.660 > Scanning...
+17:50:04.660 > I2C device found at address 0x4A !
+17:50:04.680 > Scan complete
+17:50:04.681 > 
+17:50:06.681 > Scanning...
+17:50:06.692 > I2C device found at address 0x4A !
+17:50:06.698 > Scan complete
+17:50:06.698 > 
+17:50:08.693 > Scanning...
+17:50:08.709 > I2C device found at address 0x4A !
+17:50:08.714 > Scan complete
+17:50:08.715 > 
+17:50:10.708 > Scanning...
+17:50:10.727 > I2C device found at address 0x4A !
+17:50:10.731 > Scan complete
+17:50:10.732 > 
+17:50:12.731 > Scanning...
+17:50:12.743 > I2C device found at address 0x4A !
+17:50:12.749 > Scan complete
+17:50:12.749 > 
+17:50:14.742 > Scanning...
+17:50:14.760 > I2C device found at address 0x4A !
+17:50:14.765 > Scan complete
+17:50:14.765 > 
+17:50:16.766 > Scanning...
+17:50:16.777 > I2C device found at address 0x4A !
+17:50:16.782 > Scan complete
+17:50:16.783 > 
+17:50:18.782 > Scanning...
+17:50:18.793 > I2C device found at address 0x4A !
+17:50:18.798 > Scan complete
+17:50:18.798 > 
+17:50:20.790 > Scanning...
+17:50:20.811 > I2C device found at address 0x4A !
+17:50:20.812 > Scan complete
+17:50:20.812 > 
+17:50:22.816 > Scanning...
+17:50:22.817 > I2C device found at address 0x4A !
+17:50:22.833 > Scan complete
+17:50:22.833 > 
+17:50:24.832 > Scanning...
+17:50:24.845 > I2C device found at address 0x4A !
+17:50:24.847 > Scan complete
+17:50:24.847 > 
+17:50:26.850 > Scanning...
+17:50:26.861 > I2C device found at address 0x4A !
+17:50:26.866 > Scan complete
+17:50:26.866 > 
+17:50:28.861 > Scanning...
+17:50:28.876 > I2C device found at address 0x4A !
+17:50:28.882 > Scan complete
+17:50:28.882 > 
+17:50:30.882 > Scanning...
+17:50:30.893 > I2C device found at address 0x4A !
+17:50:30.899 > Scan complete
+17:50:30.899 > 

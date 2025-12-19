@@ -1,0 +1,14 @@
+14:58:37.050 > ESP-ROM:esp32s3-20210327
+14:58:37.056 > Build:Mar 27 2021
+14:58:37.056 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+14:58:37.061 > SPIWP:0xee
+14:58:37.061 > mode:DIO, clock div:1
+14:58:37.061 > load:0x3fce3808,len:0x4bc
+14:58:37.068 > load:0x403c9700,len:0xbd8
+14:58:37.068 > load:0x403cc700,len:0x2a0c
+14:58:37.068 > entry 0x403c98d0
+14:58:37.215 > DEVICE ID: deca0302
+14:58:37.221 > PLL is locked..
+14:58:37.221 > PGF cal complete..
+14:58:37.221 > Done init
+14:58:54.565 > First time

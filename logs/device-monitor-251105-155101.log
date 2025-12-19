@@ -1,0 +1,279 @@
+15:51:01.497 > ESP-ROM:esp32s3-20210327
+15:51:01.501 > Build:Mar 27 2021
+15:51:01.504 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:01.509 > SPIWP:0xee
+15:51:01.509 > mode:DIO, clock div:1
+15:51:01.509 > load:0x3fce3808,len:0x4bc
+15:51:01.514 > load:0x403c9700,len:0xbd8
+15:51:01.514 > load:0x403cc700,len:0x2a0c
+15:51:01.514 > entry 0x403c98d0
+15:51:02.518 > ESP-ROM:esp32s3-20210327
+15:51:02.518 > Build:Mar 27 2021
+15:51:02.518 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:02.518 > Saved PC:0x403743c8
+15:51:02.518 > SPIWP:0xee
+15:51:02.532 > mode:DIO, clock div:1
+15:51:02.532 > load:0x3fce3808,len:0x4bc
+15:51:02.532 > load:0x403c9700,len:0xbd8
+15:51:02.536 > load:0x403cc700,len:0x2a0c
+15:51:02.536 > entry 0x403c98d0
+15:51:03.539 > ESP-ROM:esp32s3-20210327
+15:51:03.539 > Build:Mar 27 2021
+15:51:03.539 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:03.546 > Saved PC:0x40378f80
+15:51:03.546 > SPIWP:0xee
+15:51:03.553 > mode:DIO, clock div:1
+15:51:03.553 > load:0x3fce3808,len:0x4bc
+15:51:03.553 > load:0x403c9700,len:0xbd8
+15:51:03.559 > load:0x403cc700,len:0x2a0c
+15:51:03.559 > entry 0x403c98d0
+15:51:04.564 > ESP-ROM:esp32s3-20210327
+15:51:04.564 > Build:Mar 27 2021
+15:51:04.564 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:04.566 > Saved PC:0x40378f80
+15:51:04.566 > SPIWP:0xee
+15:51:04.574 > mode:DIO, clock div:1
+15:51:04.574 > load:0x3fce3808,len:0x4bc
+15:51:04.574 > load:0x403c9700,len:0xbd8
+15:51:04.580 > load:0x403cc700,len:0x2a0c
+15:51:04.580 > entry 0x403c98d0
+15:51:05.585 > ESP-ROM:esp32s3-20210327
+15:51:05.585 > Build:Mar 27 2021
+15:51:05.585 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:05.589 > Saved PC:0x40378f83
+15:51:05.589 > SPIWP:0xee
+15:51:05.596 > mode:DIO, clock div:1
+15:51:05.596 > load:0x3fce3808,len:0x4bc
+15:51:05.596 > load:0x403c9700,len:0xbd8
+15:51:05.603 > load:0x403cc700,len:0x2a0c
+15:51:05.603 > entry 0x403c98d0
+15:51:06.602 > ESP-ROM:esp32s3-20210327
+15:51:06.602 > Build:Mar 27 2021
+15:51:06.602 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:06.612 > Saved PC:0x403743c0
+15:51:06.612 > SPIWP:0xee
+15:51:06.617 > mode:DIO, clock div:1
+15:51:06.617 > load:0x3fce3808,len:0x4bc
+15:51:06.617 > load:0x403c9700,len:0xbd8
+15:51:06.623 > load:0x403cc700,len:0x2a0c
+15:51:06.623 > entry 0x403c98d0
+15:51:07.626 > ESP-ROM:esp32s3-20210327
+15:51:07.629 > Build:Mar 27 2021
+15:51:07.629 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:07.630 > Saved PC:0x40378f80
+15:51:07.630 > SPIWP:0xee
+15:51:07.639 > mode:DIO, clock div:1
+15:51:07.639 > load:0x3fce3808,len:0x4bc
+15:51:07.639 > load:0x403c9700,len:0xbd8
+15:51:07.645 > load:0x403cc700,len:0x2a0c
+15:51:07.645 > entry 0x403c98d0
+15:51:08.642 > ESP-ROM:esp32s3-20210327
+15:51:08.642 > Build:Mar 27 2021
+15:51:08.642 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:08.642 > Saved PC:0x403743c5
+15:51:08.642 > SPIWP:0xee
+15:51:08.661 > mode:DIO, clock div:1
+15:51:08.661 > load:0x3fce3808,len:0x4bc
+15:51:08.661 > load:0x403c9700,len:0xbd8
+15:51:08.666 > load:0x403cc700,len:0x2a0c
+15:51:08.666 > entry 0x403c98d0
+15:51:09.671 > ESP-ROM:esp32s3-20210327
+15:51:09.671 > Build:Mar 27 2021
+15:51:09.671 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:09.671 > Saved PC:0x403743c3
+15:51:09.671 > SPIWP:0xee
+15:51:09.683 > mode:DIO, clock div:1
+15:51:09.683 > load:0x3fce3808,len:0x4bc
+15:51:09.683 > load:0x403c9700,len:0xbd8
+15:51:09.688 > load:0x403cc700,len:0x2a0c
+15:51:09.688 > entry 0x403c98d0
+15:51:10.693 > ESP-ROM:esp32s3-20210327
+15:51:10.694 > Build:Mar 27 2021
+15:51:10.694 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:10.699 > Saved PC:0x40378f80
+15:51:10.699 > SPIWP:0xee
+15:51:10.704 > mode:DIO, clock div:1
+15:51:10.704 > load:0x3fce3808,len:0x4bc
+15:51:10.704 > load:0x403c9700,len:0xbd8
+15:51:10.709 > load:0x403cc700,len:0x2a0c
+15:51:10.709 > entry 0x403c98d0
+15:51:11.713 > ESP-ROM:esp32s3-20210327
+15:51:11.713 > Build:Mar 27 2021
+15:51:11.713 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:11.720 > Saved PC:0x403743c0
+15:51:11.720 > SPIWP:0xee
+15:51:11.725 > mode:DIO, clock div:1
+15:51:11.725 > load:0x3fce3808,len:0x4bc
+15:51:11.725 > load:0x403c9700,len:0xbd8
+15:51:11.731 > load:0x403cc700,len:0x2a0c
+15:51:11.731 > entry 0x403c98d0
+15:51:12.734 > ESP-ROM:esp32s3-20210327
+15:51:12.734 > Build:Mar 27 2021
+15:51:12.734 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:12.741 > Saved PC:0x403743c0
+15:51:12.741 > SPIWP:0xee
+15:51:12.747 > mode:DIO, clock div:1
+15:51:12.747 > load:0x3fce3808,len:0x4bc
+15:51:12.747 > load:0x403c9700,len:0xbd8
+15:51:12.754 > load:0x403cc700,len:0x2a0c
+15:51:12.754 > entry 0x403c98d0
+15:51:13.755 > ESP-ROM:esp32s3-20210327
+15:51:13.755 > Build:Mar 27 2021
+15:51:13.755 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:13.762 > Saved PC:0x40378f83
+15:51:13.762 > SPIWP:0xee
+15:51:13.769 > mode:DIO, clock div:1
+15:51:13.769 > load:0x3fce3808,len:0x4bc
+15:51:13.769 > load:0x403c9700,len:0xbd8
+15:51:13.775 > load:0x403cc700,len:0x2a0c
+15:51:13.775 > entry 0x403c98d0
+15:51:14.776 > ESP-ROM:esp32s3-20210327
+15:51:14.776 > Build:Mar 27 2021
+15:51:14.776 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:14.782 > Saved PC:0x403743c0
+15:51:14.782 > SPIWP:0xee
+15:51:14.790 > mode:DIO, clock div:1
+15:51:14.790 > load:0x3fce3808,len:0x4bc
+15:51:14.790 > load:0x403c9700,len:0xbd8
+15:51:14.793 > load:0x403cc700,len:0x2a0c
+15:51:14.793 > entry 0x403c98d0
+15:51:15.796 > ESP-ROM:esp32s3-20210327
+15:51:15.796 > Build:Mar 27 2021
+15:51:15.796 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:15.802 > Saved PC:0x40378f80
+15:51:15.802 > SPIWP:0xee
+15:51:15.812 > mode:DIO, clock div:1
+15:51:15.812 > load:0x3fce3808,len:0x4bc
+15:51:15.812 > load:0x403c9700,len:0xbd8
+15:51:15.818 > load:0x403cc700,len:0x2a0c
+15:51:15.818 > entry 0x403c98d0
+15:51:16.823 > ESP-ROM:esp32s3-20210327
+15:51:16.823 > Build:Mar 27 2021
+15:51:16.823 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:16.825 > Saved PC:0x40378f83
+15:51:16.825 > SPIWP:0xee
+15:51:16.834 > mode:DIO, clock div:1
+15:51:16.834 > load:0x3fce3808,len:0x4bc
+15:51:16.834 > load:0x403c9700,len:0xbd8
+15:51:16.838 > load:0x403cc700,len:0x2a0c
+15:51:16.838 > entry 0x403c98d0
+15:51:17.844 > ESP-ROM:esp32s3-20210327
+15:51:17.844 > Build:Mar 27 2021
+15:51:17.844 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:17.845 > Saved PC:0x40378f80
+15:51:17.845 > SPIWP:0xee
+15:51:17.855 > mode:DIO, clock div:1
+15:51:17.855 > load:0x3fce3808,len:0x4bc
+15:51:17.855 > load:0x403c9700,len:0xbd8
+15:51:17.860 > load:0x403cc700,len:0x2a0c
+15:51:17.860 > entry 0x403c98d0
+15:51:18.865 > ESP-ROM:esp32s3-20210327
+15:51:18.865 > Build:Mar 27 2021
+15:51:18.865 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:18.865 > Saved PC:0x403743c0
+15:51:18.865 > SPIWP:0xee
+15:51:18.877 > mode:DIO, clock div:1
+15:51:18.877 > load:0x3fce3808,len:0x4bc
+15:51:18.877 > load:0x403c9700,len:0xbd8
+15:51:18.883 > load:0x403cc700,len:0x2a0c
+15:51:18.883 > entry 0x403c98d0
+15:51:19.887 > ESP-ROM:esp32s3-20210327
+15:51:19.887 > Build:Mar 27 2021
+15:51:19.887 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:19.893 > Saved PC:0x403743c5
+15:51:19.893 > SPIWP:0xee
+15:51:19.898 > mode:DIO, clock div:1
+15:51:19.898 > load:0x3fce3808,len:0x4bc
+15:51:19.898 > load:0x403c9700,len:0xbd8
+15:51:19.904 > load:0x403cc700,len:0x2a0c
+15:51:19.904 > entry 0x403c98d0
+15:51:20.907 > ESP-ROM:esp32s3-20210327
+15:51:20.907 > Build:Mar 27 2021
+15:51:20.907 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:20.914 > Saved PC:0x403743c8
+15:51:20.914 > SPIWP:0xee
+15:51:20.920 > mode:DIO, clock div:1
+15:51:20.920 > load:0x3fce3808,len:0x4bc
+15:51:20.920 > load:0x403c9700,len:0xbd8
+15:51:20.926 > load:0x403cc700,len:0x2a0c
+15:51:20.926 > entry 0x403c98d0
+15:51:21.927 > ESP-ROM:esp32s3-20210327
+15:51:21.927 > Build:Mar 27 2021
+15:51:21.927 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:21.935 > Saved PC:0x403743c3
+15:51:21.935 > SPIWP:0xee
+15:51:21.942 > mode:DIO, clock div:1
+15:51:21.942 > load:0x3fce3808,len:0x4bc
+15:51:21.942 > load:0x403c9700,len:0xbd8
+15:51:21.948 > load:0x403cc700,len:0x2a0c
+15:51:21.948 > entry 0x403c98d0
+15:51:22.949 > ESP-ROM:esp32s3-20210327
+15:51:22.949 > Build:Mar 27 2021
+15:51:22.949 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:22.956 > Saved PC:0x403743c5
+15:51:22.956 > SPIWP:0xee
+15:51:22.963 > mode:DIO, clock div:1
+15:51:22.963 > load:0x3fce3808,len:0x4bc
+15:51:22.963 > load:0x403c9700,len:0xbd8
+15:51:22.970 > load:0x403cc700,len:0x2a0c
+15:51:22.970 > entry 0x403c98d0
+15:51:23.969 > ESP-ROM:esp32s3-20210327
+15:51:23.969 > Build:Mar 27 2021
+15:51:23.969 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:23.980 > Saved PC:0x40378f83
+15:51:23.980 > SPIWP:0xee
+15:51:23.985 > mode:DIO, clock div:1
+15:51:23.985 > load:0x3fce3808,len:0x4bc
+15:51:23.985 > load:0x403c9700,len:0xbd8
+15:51:23.992 > load:0x403cc700,len:0x2a0c
+15:51:23.992 > entry 0x403c98d0
+15:51:24.994 > ESP-ROM:esp32s3-20210327
+15:51:24.996 > Build:Mar 27 2021
+15:51:24.996 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:24.997 > Saved PC:0x403743c0
+15:51:24.997 > SPIWP:0xee
+15:51:25.006 > mode:DIO, clock div:1
+15:51:25.006 > load:0x3fce3808,len:0x4bc
+15:51:25.006 > load:0x403c9700,len:0xbd8
+15:51:25.011 > load:0x403cc700,len:0x2a0c
+15:51:25.011 > entry 0x403c98d0
+15:51:26.017 > ESP-ROM:esp32s3-20210327
+15:51:26.017 > Build:Mar 27 2021
+15:51:26.017 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:26.019 > Saved PC:0x40378f80
+15:51:26.019 > SPIWP:0xee
+15:51:26.028 > mode:DIO, clock div:1
+15:51:26.028 > load:0x3fce3808,len:0x4bc
+15:51:26.028 > load:0x403c9700,len:0xbd8
+15:51:26.034 > load:0x403cc700,len:0x2a0c
+15:51:26.034 > entry 0x403c98d0
+15:51:27.039 > ESP-ROM:esp32s3-20210327
+15:51:27.039 > Build:Mar 27 2021
+15:51:27.039 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:27.043 > Saved PC:0x40378f80
+15:51:27.043 > SPIWP:0xee
+15:51:27.050 > mode:DIO, clock div:1
+15:51:27.050 > load:0x3fce3808,len:0x4bc
+15:51:27.050 > load:0x403c9700,len:0xbd8
+15:51:27.056 > load:0x403cc700,len:0x2a0c
+15:51:27.056 > entry 0x403c98d0
+15:51:28.059 > ESP-ROM:esp32s3-20210327
+15:51:28.059 > Build:Mar 27 2021
+15:51:28.059 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:28.059 > Saved PC:0x403743c0
+15:51:28.059 > SPIWP:0xee
+15:51:28.071 > mode:DIO, clock div:1
+15:51:28.071 > load:0x3fce3808,len:0x4bc
+15:51:28.071 > load:0x403c9700,len:0xbd8
+15:51:28.076 > load:0x403cc700,len:0x2a0c
+15:51:28.076 > entry 0x403c98d0
+15:51:29.082 > ESP-ROM:esp32s3-20210327
+15:51:29.082 > Build:Mar 27 2021
+15:51:29.082 > rst:0x8 (TG1WDT_SYS_RST),boot:0x8 (SPI_FAST_FLASH_BOOT)
+15:51:29.086 > Saved PC:0x403743c8
+15:51:29.086 > SPIWP:0xee
+15:51:29.093 > mode:DIO, clock div:1
+15:51:29.093 > load:0x3fce3808,len:0x4bc
+15:51:29.093 > load:0x403c9700,len:0xbd8
+15:51:29.097 > load:0x403cc700,len:0x2a0c
+15:51:29.097 > entry 0x403c98d0

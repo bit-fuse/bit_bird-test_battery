@@ -1,0 +1,32 @@
+11:33:24.722 > ESP-ROM:esp32s3-20210327
+11:33:24.728 > Build:Mar 27 2021
+11:33:24.728 > rst:0x1 (POWERON),boot:0x9 (SPI_FAST_FLASH_BOOT)
+11:33:24.733 > SPIWP:0xee
+11:33:24.733 > mode:DIO, clock div:1
+11:33:24.733 > load:0x3fce3808,len:0x4bc
+11:33:24.739 > load:0x403c9700,len:0xbd8
+11:33:24.739 > load:0x403cc700,len:0x2a0c
+11:33:24.739 > entry 0x403c98d0
+11:33:34.182 > E (9334) I2S: i2s_driver_uninstall(2048): I2S port 0 has not installed
+11:33:34.235 > DEVICE ID: deca0302
+11:33:34.235 > PLL is locked..
+11:33:34.235 > PGF cal complete..
+11:33:34.235 > Done init
+11:33:34.244 > I2C address not found
+11:33:34.244 > Failed to find BNO08x chip!
+11:34:21.160 > ESP-ROM:esp32s3-20210327
+11:34:21.160 > Build:Mar 27 2021
+11:34:21.176 > rst:0x1 (POWERON),boot:0xb (SPI_FAST_FLASH_BOOT)
+11:34:21.181 > SPIWP:0xee
+11:34:21.181 > mode:DIO, clock div:1
+11:34:21.181 > load:0x3fce3808,len:0x4bc
+11:34:21.185 > load:0x403c9700,len:0xbd8
+11:34:21.185 > load:0x403cc700,len:0x2a0c
+11:34:21.185 > entry 0x403c98d0
+11:34:30.627 > E (9334) I2S: i2s_driver_uninstall(2048): I2S port 0 has not installed
+11:34:30.679 > DEVICE ID: deca0302
+11:34:30.679 > PLL is locked..
+11:34:30.679 > PGF cal complete..
+11:34:30.679 > Done init
+11:34:30.690 > I2C address not found
+11:34:30.690 > Failed to find BNO08x chip!

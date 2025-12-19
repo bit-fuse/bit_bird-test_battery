@@ -1,0 +1,26 @@
+14:38:59.342 > ESP-ROM:esp32s3-20210327
+14:38:59.344 > Build:Mar 27 2021
+14:38:59.344 > rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+14:38:59.354 > SPIWP:0xee
+14:38:59.354 > mode:DIO, clock div:1
+14:38:59.354 > load:0x3fce3808,len:0x4bc
+14:38:59.360 > load:0x403c9700,len:0xbd8
+14:38:59.360 > load:0x403cc700,len:0x2a0c
+14:38:59.360 > entry 0x403c98d0
+14:38:59.513 > DEVICE ID: deca0302
+14:38:59.514 > PLL is locked..
+14:38:59.514 > PGF cal complete..
+14:38:59.514 > Done init
+14:39:16.743 > First time
+14:40:51.100 > Not received, maybe timeout
+14:41:47.377 > Not received, maybe timeout
+14:42:02.772 > Not received, maybe timeout
+14:43:09.097 > Not received, maybe timeout
+14:43:34.771 > Not received, maybe timeout
+14:44:16.591 > Not received, maybe timeout
+14:44:20.471 > Not received, maybe timeout
+14:44:21.612 > Not received, maybe timeout
+14:44:22.335 > Not received, maybe timeout
+14:44:57.173 > Not received, maybe timeout
+14:45:07.952 > Not received, maybe timeout
+14:45:09.673 > Not received, maybe timeout
